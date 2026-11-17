@@ -1,0 +1,29 @@
+name: Bound High! Proto
+md5: [a460e2660fa951e9d4e3b05aee9f5018]
+header: no
+end: 0x200000
+splits:
+  - [0]
+  - [0x4c1b4, gfx1, png, 256]
+  - [0x541B4]
+  - [0x54764, gfx2, png, 256]
+  - [0x5C764]
+  - [0x5f518, bios_important_tiles]
+  - [0x5ff98]
+  - [0x5ff9c, bios_logo_tiles]
+  - [0x60A1C]
+  - [0x6cdb0, gfx3, png, 256]
+  - [0x74db0]
+  - [0x76cdc, gfx4, png, 256]
+  - [0x7ECDC]
+  - [0x8476c, gfx5, png, 256]
+  - [0x8C76c]
+  - [0x93948, gfx6, png, 256]
+  - [0xa3948]
+  - [0xa7dac, gfx8, png, 256]
+  - [0xB7DAC]
+  - [0xb98b8, bios_gfx, png, 128]
+  - [0xBA0B8]
+  - [0xC2250, gfx10, png, 256]
+  - [0x142250] #music probably
+  - [0x15bf00]
